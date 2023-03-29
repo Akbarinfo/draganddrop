@@ -1,0 +1,180 @@
+[
+  {
+    "id": "1",
+    "title": "Новые",
+    "users": [
+      {
+        "occ": "UI/UX дизайнер",
+        "occtext": "Отдел разработки мобильного приложения",
+        "pri": "В приоритете",
+        "priUser": "3",
+        "priDoc": "255",
+        "name": "Алексей Щербаков",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Маркетолог",
+        "occtext": "Отдел маркетинга",
+        "pri": "В приоритете",
+        "priUser": "2",
+        "priDoc": "182",
+        "role": "Рекруитер",
+        "name": "Floyd Miles"
+      },
+      {
+        "occ": "Менеджер по продажам",
+        "occtext": "Отдел продаж",
+        "pri": "В приоритете",
+        "priUser": "3",
+        "priDoc": "255",
+        "name": "Theresa Webb",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "UI/UX дизайнер",
+        "occtext": "Отдел разработки мобильного приложения",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Vanessa Johnson",
+        "role": "Рекруитер"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Текущие",
+    "users": [
+      {
+        "occ": "PHP Developer",
+        "occtext": "Housekeepers",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Kristin Watson",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Freshers",
+        "occtext": "Finance",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Jacob Jones",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "UI UX Designer",
+        "occtext": "Management",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Wade Warren",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Joomla Developer",
+        "occtext": "Accounting",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Cameron Williamson",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Python Developer",
+        "occtext": "Laundry",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Devon Lane",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Freshers",
+        "occtext": "Finance",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Jacob Jones",
+        "role": "Рекруитер"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Закрытые",
+    "users": []
+  },
+  {
+    "id": "4",
+    "title": "Архив",
+    "users": [
+      {
+        "occ": "UX Architect",
+        "occtext": "Housekeeping management",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Guy Hawkins",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Human Resource",
+        "occtext": "Operations",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Annette Black",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Python Developer",
+        "occtext": "Restaurant Management",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Esther Howard",
+        "role": "Рекруитер"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Удаленные",
+    "users": [
+      {
+        "occ": "PHP Developer",
+        "occtext": "Housekeepers",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Kristin Watson",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "Freshers",
+        "occtext": "Finance",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Jacob Jones",
+        "role": "Рекруитер"
+      },
+      {
+        "occ": "UI UX Designer",
+        "occtext": "Management",
+        "pri": "В приоритете",
+        "priUser": "",
+        "priDoc": "",
+        "name": "Wade Warren",
+        "role": "Рекруитер"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Закрытые",
+    "users": []
+  }
+]
